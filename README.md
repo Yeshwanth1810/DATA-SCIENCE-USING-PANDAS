@@ -24,7 +24,7 @@ Alternatively, you can install NumPy using conda if you are using Anaconda:
 conda install numpy
 ```
 
-## Quick Start
+## INTIALIZING:
 
 Here’s a quick example to get you started with NumPy:
 
