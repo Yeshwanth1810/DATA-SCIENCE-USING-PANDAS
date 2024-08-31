@@ -1,5 +1,4 @@
-# NumPy: A Fundamental Package for Scientific Computing with Python
-
+# DATA SCIENCE USING NUMPY
 ## Introduction
 
 NumPy (Numerical Python) is a powerful library for numerical computing in Python. It provides support for arrays, matrices, and many mathematical functions to operate on these data structures efficiently. It is a core library for scientific computing and serves as the foundation for many other libraries, including SciPy, Pandas, and Matplotlib.
