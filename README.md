@@ -14,9 +14,6 @@ Welcome to the "Data Science with Pandas" repository! This project is designed t
 - [Usage](#usage)
 - [Features](#features)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
