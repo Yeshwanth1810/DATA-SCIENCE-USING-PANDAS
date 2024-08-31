@@ -1,10 +1,4 @@
 # DATA-SCIENCE-USING-PANDAS
-Certainly! Here's a template for a README file tailored for a GitHub repository focused on data science using Pandas:
-
----
-
-# Data Science with Pandas
-
 Welcome to the "Data Science with Pandas" repository! This project is designed to showcase and support various data science tasks using the Pandas library, a powerful tool for data manipulation and analysis in Python.
 
 ## Table of Contents
